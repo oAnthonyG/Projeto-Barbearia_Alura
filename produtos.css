@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+    background-color: gray;
+}
+.lista-produtos{
+    display: flex;
+    margin: 20px;
+}
+.lista{
+    margin: 20px;
+}
