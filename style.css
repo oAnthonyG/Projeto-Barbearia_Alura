@@ -1,4 +1,9 @@
+.titulo-principal{
+    text-align: center;
+    font-size: 30px;
+    text-shadow: 2px 2px #C78C19;
 
+}
 .banner{
     width: 100%;
     border-radius: 10px;
@@ -6,9 +11,6 @@
 .principal{
     padding: 30px;
     background-color: #ccc;
-}
-.titulo-principal{
-    padding-left: 20px;
 }
 .titulo-centralizado{
     text-align: center;
@@ -35,7 +37,7 @@ em strong{
 }
 
 
-ul{
+.lista-beneficio{
     display: inline-block;
     vertical-align: top;
     width: 20%;
