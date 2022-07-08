@@ -13,10 +13,13 @@
     background-color: #ccc;
 }
 .titulo-centralizado{
+    font-size: 30px;
     text-align: center;
+    text-shadow: 2px 2px #C78C19;
 }
 p{
     text-align: center;
+    font-size: 18px;
 }
 
 .missao{
@@ -39,9 +42,13 @@ em strong{
 
 .lista-beneficio{
     display: inline-block;
+    font-size: 18px;
+    font-weight: bold;
     vertical-align: top;
     width: 20%;
-    margin-right: 15%;
+    margin-top: 10%;
+    margin-right: 10%;
+    margin-left: 5%;
 }
 .banner-beneficios{
     width: 50%;
