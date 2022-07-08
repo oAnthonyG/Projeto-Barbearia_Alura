@@ -118,3 +118,18 @@ fieldset{
     transform: scale(1.1);
     background-color: darkorange;
 }
+
+table{
+    margin: 20px 0 40px;
+}
+
+thead{
+    font-weight: bold;
+    background-color: #555;
+    color: white;
+}
+
+td, th{
+    border: 1px solid black;
+    padding: 8px 15px ;
+}
