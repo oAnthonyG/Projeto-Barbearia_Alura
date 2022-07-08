@@ -99,3 +99,22 @@ fieldset{
 .checkbox{
     margin: 20px 0;
 }
+
+.enviar{
+    font-weight: bold;
+    font-size: 18px;
+    width: 40%;
+    padding: 15px 0;
+
+    border: none;
+    border-radius: 5px;
+    background-color: orange;
+    color: white;
+    transition: 1s all;
+}
+
+.enviar:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    background-color: darkorange;
+}
