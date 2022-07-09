@@ -1,5 +1,5 @@
 @media screen and (max-width: 480px) {  
-    .principal, .conteudo-beneficios, .mapa-conteudo, .video{
+    .principal, .conteudo-beneficios, .mapa-conteudo, .video, .container{
         width: auto;
     }
     .principal{
@@ -35,5 +35,29 @@
         display: block;
         width: 70%;
         margin: 1.5rem 1.9rem;
+    }
+
+    label{
+        margin-left: 2.5rem;
+    }
+    .input-padrao{
+        width: 60%;
+        margin-inline: auto;
+    }
+    legend{
+        margin-left: 10px;
+    }
+    select{
+        margin-left: 5px;
+    }
+
+    .checkbox{
+        margin-left: 10px; 
+    }
+    .enviar{
+        margin-left: 7rem;
+    }
+    table{
+        margin-left: 10px;
     }
 }
