@@ -1,0 +1,31 @@
+@media screen and (max-width: 480px) {  
+    .principal, .conteudo-beneficios, .mapa-conteudo, .video{
+        width: auto;
+    }
+    .principal{
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .cabecalho{
+        display: block;
+        padding: 10px;
+    }
+    h1{
+        text-align: center;
+    }
+    nav{
+        
+        position: static;
+    }
+    nav li{
+        margin: 2px;
+    }
+    .lista-beneficios, .imagem-beneficios{
+        width: 90%;
+        margin-left: 15px;
+    }
+    .video, .mapa-conteudo{
+        margin-left: 20px;
+        
+    }
+}
